@@ -175,3 +175,63 @@ console.log(bmwModel.filter(x => x <= 600))
 Result:
 console.log(bmwModel.filter(x => x <= 600)) => [330, 550]
 ____________________________________________________________________________________________________________________________________
+
+.forEach(): This method calls a function for each element in an array, in order
+
+Syntax:
+array.forEach(function(currentValue, index, arr), thisValue)
+
+Example:
+
+const benz = ['C', 'E', 'G', 'S']
+benz.forEach(x => console.log(x += '-Class'))
+
+Result:
+benz.forEach(x => console.log(x += '-Class')) => C-Class, E-Class, G-Class, S-Class
+____________________________________________________________________________________________________________________________________
+
+.reduce(): This method provides a function for each value of the array from left to right reducing the array to a single thisValue
+
+Syntax:
+array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
+
+Example:
+
+const nums = [23, 93, 5, 16]
+console.log(nums.reduce((acc,val) => acc + val))
+
+Result:
+console.log(nums.reduce((acc,val) => acc + val)) => 137
+____________________________________________________________________________________________________________________________________
+
+.pop():
+
+Syntax:
+
+Example:
+
+
+Result:
+
+____________________________________________________________________________________________________________________________________
+
+.push():
+
+Syntax:
+
+Example:
+
+
+Result:
+
+____________________________________________________________________________________________________________________________________
+.shift():
+
+Syntax:
+
+Example:
+
+
+Result:
+
+____________________________________________________________________________________________________________________________________
