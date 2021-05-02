@@ -1,6 +1,6 @@
 Array Methods
 ____________________________________________________________________________________________________________________________________
-.isArray(): Takes in a value and returns true if the value is an array, else it will return false.
+.isArray(): Takes in a value and returns true if the value is an array, else it will return false
 
 **Key Point**
 Must add "Array" to your equation
