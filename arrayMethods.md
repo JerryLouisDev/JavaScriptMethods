@@ -204,9 +204,10 @@ Result:
 console.log(nums.reduce((acc,val) => acc + val)) => 137
 ____________________________________________________________________________________________________________________________________
 
-.pop():
+.pop(): This method removes the last element from an array and returns the element
 
 Syntax:
+array.pop()
 
 Example:
 
