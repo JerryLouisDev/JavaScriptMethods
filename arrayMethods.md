@@ -210,7 +210,8 @@ Syntax:
 array.pop()
 
 Example:
-
+const toyotaModels = ['Camry', 'MR2', '4Runner', 'Celica', 'Land Cruiser', 'Corolla', 'Highlander']
+console.log(toyotaModels.pop())
 
 Result:
 
