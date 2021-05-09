@@ -218,7 +218,7 @@ Result:
 console.log(toyotaModels.pop()) => Highlander
 ____________________________________________________________________________________________________________________________________
 
-.push():
+.push(): This method adds a new item to the end of an array and returns a new length
 
 Syntax:
 
