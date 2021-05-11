@@ -221,9 +221,13 @@ ________________________________________________________________________________
 .push(): This method adds a new item to the end of an array and returns a new length
 
 Syntax:
+array.push(itemA,..., itemZ)
 
 Example:
 
+const toyotaModels = ['Camry', '4Runner', 'Celica', 'Land Cruiser', 'Corolla', 'Highlander']
+console.log(toyotaModels.push('MR2'))
+console.log(toyotaModels)
 
 Result:
 
