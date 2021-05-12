@@ -230,8 +230,8 @@ console.log(toyotaModels.push('MR2'))
 console.log(toyotaModels)
 
 Result:
-console.log(toyotaModels.push('MR2')) =>
-console.log(toyotaModels) => 
+console.log(toyotaModels.push('MR2')) => 7 
+console.log(toyotaModels) =>
 ____________________________________________________________________________________________________________________________________
 .shift():
 
