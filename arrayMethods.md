@@ -233,7 +233,7 @@ Result:
 console.log(toyotaModels.push('MR2')) => 7
 console.log(toyotaModels) => [  'Camry', '4Runner', 'Celica', 'Land Cruiser', 'Corolla', 'Highlander', 'MR2']
 ____________________________________________________________________________________________________________________________________
-.shift():
+.shift(): This method removes the first item of an array 
 
 Syntax:
 
