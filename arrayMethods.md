@@ -233,12 +233,15 @@ Result:
 console.log(toyotaModels.push('MR2')) => 7
 console.log(toyotaModels) => [  'Camry', '4Runner', 'Celica', 'Land Cruiser', 'Corolla', 'Highlander', 'MR2']
 ____________________________________________________________________________________________________________________________________
-.shift(): This method removes the first item of an array 
+.shift(): This method removes the first item of an array
 
 Syntax:
 
 Example:
 
+const acuraModels = ['CL','TL','MDX','RSX']
+console.log(acuraModels.shift())
+console.log(acuraModels)
 
 Result:
 
