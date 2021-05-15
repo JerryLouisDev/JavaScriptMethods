@@ -236,6 +236,7 @@ ________________________________________________________________________________
 .shift(): This method removes the first item of an array
 
 Syntax:
+array.shift()
 
 Example:
 
