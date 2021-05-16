@@ -245,5 +245,6 @@ console.log(acuraModels.shift())
 console.log(acuraModels)
 
 Result:
-
+console.log(acuraModels.shift())
+console.log(acuraModels)
 ____________________________________________________________________________________________________________________________________
