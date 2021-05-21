@@ -246,5 +246,5 @@ console.log(acuraModels)
 
 Result:
 console.log(acuraModels.shift()) => CL
-console.log(acuraModels) =>
+console.log(acuraModels) => [ 'TL', 'MDX', 'RSX' ]
 ____________________________________________________________________________________________________________________________________
