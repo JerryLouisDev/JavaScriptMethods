@@ -221,7 +221,7 @@ ________________________________________________________________________________
 .push(): This method adds a new item to the end of an array and returns a new length
 
 Syntax:
-array.push(itemA,..., itemZ)
+array.push(itemA,..., itemZ);
 
 Example:
 
